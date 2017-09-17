@@ -1,6 +1,7 @@
 <keymap version="1" name="Jiho's Keys" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt back_quote" />
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="Console.TableResult.Reload" />
   <action id="FileChooser.TogglePathShowing" />
