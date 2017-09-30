@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="_mix-padding-vertical.scss" type="PLAIN_TEXT" />
       <mapping pattern="_component.scss" type="SCSS" />
       <mapping ext="info" type="Ini" />
     </extensionMap>
