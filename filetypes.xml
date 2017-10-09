@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="_mix-padding-vertical.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_feed_text-container.scss" type="SCSS" />
       <mapping pattern="_component.scss" type="SCSS" />
       <mapping ext="info" type="Ini" />
     </extensionMap>
